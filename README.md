@@ -1,0 +1,2 @@
+# Bookstore-SQL-Project
+This Books SQL Project focuses on designing and querying a relational database for book management and analysis. It includes structured tables, relationships, and SQL queries to retrieve insights such as book availability, authors, categories, and trends, demonstrating practical SQL skills for real-world data handling.
